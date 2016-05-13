@@ -1,8 +1,3 @@
-#include<iostream>
+Hello There,
 
-using namesspace std;
-
-void main()
-{
- hello();
-}
+This a testing out of gitHub. Add in your additions.
